@@ -7,3 +7,6 @@
 
 # Update the apt package index
 sudo apt-get update
+```bash
+# Это блок с командой bash
+sudo apt update
