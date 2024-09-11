@@ -1,7 +1,7 @@
 # ml-1 
 
 
-# Update the apt package index
+# 1. Обновляем список доступных пакетов, обновлений
 
 ```bash
 sudo apt-get update
